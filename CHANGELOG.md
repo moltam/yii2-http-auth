@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Minor
+ - \#1 Improve documentation
+ - \#3 Restrict version constraints for Yii
+ - \#2 DX: Add PHP-CS-Fixer support
+ - \#4 DX: Add tests
+
 ## [0.1.0] - 2016-03-18
 ### Added
  - Add `errorAction` option
